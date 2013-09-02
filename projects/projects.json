@@ -2,6 +2,23 @@
   "featured": "YouTube on PS3",
   "projects": [
     {
+      "name": "Spectator",
+      "thumb": "spectator/thumb.png",
+      "desc": "Express your BDD examples in a clear and concise view. Spectator converts them to Jasmine syntax automatically.",
+      "url": "http://vibhor86.github.io/spectator",
+      "info": "https://github.com/vibhor86/spectator/wiki",
+      "src": "https://github.com/vibhor86/spectator",
+      "submitter": "vibhor86",
+      "submissionDate": "2013-09-02",
+      "tags": [
+        "Production",
+        "Productivity", "Planning",
+        "BDD", "Jasmine", "YAML", "Ace Editor", "Underscore", "JS-YAML", "jQuery", "AngularJS v1.2.0-rc.1",
+        "Open Source",
+        "Tests Included"
+      ]
+    },
+    {
       "name": "Fitblok",
       "thumb": "fitblok/thumb.png",
       "desc": "Fitblok is a One-Page Web app, which provides users with a gym-like experience and enables fitness trainers to develop their own following.",
